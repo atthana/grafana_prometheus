@@ -2,6 +2,8 @@
 
 This project sets up a complete monitoring system using Prometheus and Grafana with Docker Compose.
 
+Path in Mac: `/Users/atthana/Desktop/Private_Q/Trainings/27_DevOps/grafana`
+
 ## Overview
 
 This monitoring stack consists of three main components:
